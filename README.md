@@ -1,5 +1,12 @@
 # RSA_Private_Key-Founder
 
+> 1. Find value of ``e``
+> 2. use ``nano PrivateKey.py``
+> 3. scroll down and find ``e = <value>`` and Paste value of ``e = <value>`` on the ``e = <value>``
+> 4. After that ``Ctrl + x`` and hit the ``y`` button on your keyboard
+> 5. than run it..
+> 6. enjoy..
+
 # **Languages:**
 > Python
 
