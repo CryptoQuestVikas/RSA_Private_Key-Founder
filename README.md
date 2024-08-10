@@ -6,9 +6,9 @@
 ```
 git clone https://github.com/CryptoQuestVikas/RSA_Private_Key-Founder
 cd RSA_Private_Key-Founder
-chmod +x
-python3
+chmod +x PrivateKey.py
+python3 PrivateKey.py
 ```
 # **Screenshot**
-![]("img/pri.png")
-![]("img/pri1.png")
+![](/img/pri.png)
+![](/img/pri1.png)
