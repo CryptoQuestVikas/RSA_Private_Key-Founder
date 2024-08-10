@@ -1,6 +1,6 @@
 # RSA_Private_Key-Founder
 
-> 1. Find value of ``e``
+> 1. Find value of ``e = ?`` like that ``Generate the private key using p and q (take e = 65537)``
 > 2. use ``nano PrivateKey.py``
 > 3. scroll down and find ``e = <value>`` and Paste value of ``e = <value>`` on the ``e = <value>``
 > 4. After that ``Ctrl + x`` and hit the ``y`` button on your keyboard
